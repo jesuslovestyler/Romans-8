@@ -1,7 +1,8 @@
 # Romans 8 — No Condemnation
 
-A reverent page presenting the great assurance passages of Romans 8 — no condemnation, life in the Spirit, the Spirit's witness that we are children of God, and the unbreakable promise that nothing can separate us from the love of God in Christ Jesus.
+Romans 8 presented in full from the World English Bible: no condemnation for those in Christ Jesus, the Spirit's witness, more than conquerors, and nothing that can separate us from the love of God.
 
-Scripture text: World English Bible (public domain).
+**Live:** https://jesuslovestyler.github.io/Romans-8/
+**Home:** https://jesuslovestyler.com/
 
-Built with Muse artifacts.
+Scripture is quoted from the World English Bible, a public-domain translation. Released into the public domain (Unlicense — see LICENSE). Built by Tyler with Noki.
